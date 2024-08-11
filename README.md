@@ -1,4 +1,4 @@
-# todo-list
+# VueTask Manager
 
 ## Project setup
 ```
